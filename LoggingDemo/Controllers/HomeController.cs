@@ -19,6 +19,7 @@ namespace LoggingDemo.Controllers
                 int x, y, z;
                 x = 5; y = 0;
                 z = x / y;
+                z = x + y;
             }
             catch (Exception ex)
             {
